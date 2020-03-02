@@ -10,7 +10,11 @@ Das Material zu diesem Workshop findet sich in diesem Repository. Es ist leider 
 * [Kurse](/kurse)
     - [Installation von WSL (Windows Subsystem for Linux)](/kurse/wsl-installation.md)
     - [Einrichtung der Software und Terminalgrundlagen](/kurse/softwareeinrichtung-terminalgrundlagen.md)
+    - [Umgang mit Git und GitHub](/kurse/git.md)
     - [Einführung in Markdown](/kurse/markdown.md)
+    - [Verschlüsselte Kommunikation mit PGP](/kurse/pgp.md)
+    - [Verschlüsselte Kommunikation mit Matrix und Riot](/kurse/matrix.md)
+    - [Aufbau der Codebasis von Datenanfragen.de](/kurse/codebase.md)
     - [Die Daten hinter Datenanfragen.de](/kurse/data-repository.md)
 
 ## Mitarbeiten
