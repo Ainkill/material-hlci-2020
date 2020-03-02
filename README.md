@@ -7,6 +7,7 @@ Das Material zu diesem Workshop findet sich in diesem Repository. Es ist leider 
 
 ## Inhaltsverzeichnis
 
+* [Zeitplan](/plan.md)
 * [Kurse](/kurse)
     - [Installation von WSL (Windows Subsystem for Linux)](/kurse/wsl-installation.md)
     - [Einrichtung der Software und Terminalgrundlagen](/kurse/softwareeinrichtung-terminalgrundlagen.md)
