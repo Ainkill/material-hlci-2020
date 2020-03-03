@@ -14,6 +14,7 @@ Das Material zu diesem Workshop findet sich in diesem Repository. Es ist leider 
     - [Einrichtung der Software und Terminalgrundlagen](/kurse/softwareeinrichtung-terminalgrundlagen.md)
     - [Umgang mit Git und GitHub](/kurse/git.md)
     - [Einführung in Markdown](/kurse/markdown.md)
+    - [@datenanfragen.de-E-Mails mit Thunderbird empfangen](/kurse/thunderbird.md)
     - [Verschlüsselte Kommunikation mit PGP](/kurse/pgp.md)
     - [Verschlüsselte Kommunikation mit Matrix und Riot](/kurse/matrix.md)
     - [Aufbau der Codebasis von Datenanfragen.de](/kurse/codebase.md)
