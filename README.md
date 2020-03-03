@@ -17,6 +17,7 @@ Das Material zu diesem Workshop findet sich in diesem Repository. Es ist leider 
     - [@datenanfragen.de-E-Mails mit Thunderbird empfangen](/kurse/thunderbird.md)
     - [Verschlüsselte Kommunikation mit PGP](/kurse/pgp.md)
     - [Verschlüsselte Kommunikation mit Matrix und Riot](/kurse/matrix.md)
+    - [Offene Lizenzen im Kontext von Datenanfragen.de](/kurse/offene-lizenzen.md)
     - [Aufbau der Codebasis von Datenanfragen.de](/kurse/codebase.md)
     - [Die Daten hinter Datenanfragen.de](/kurse/data-repository.md)
 
